@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    background: linear-gradient(320deg, #00ff82 0%, #16acc5 100%) fixed;
+    font-family: "McLaren", cursive;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
